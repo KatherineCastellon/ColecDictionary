@@ -13,7 +13,7 @@ Dictionary<string, int> dep = new Dictionary<string, int>()
     {"Jinotega",475630},
     {"León",421050},
     {"Madriz",174744},
-    {"Managua",1,575,819 },
+    {"Managua",1575819 },
     {"Masaya",391903},
     {"Matagalpa",593503},
     {"Nueva Segovia",271581},
